@@ -1,0 +1,35 @@
+{
+  "location_id": "croxley-rockville-centre",
+  "canonical_order_url": "https://order.toasttab.com/online/croxley-ales-rockville-centre",
+  "canonical_order_url_status": "VERIFIED",
+  "ordering_surfaces": [
+    {
+      "ordering_surface_id": "os-croxley-rockville-centre-standard",
+      "surface_type": "standard_online_ordering",
+      "provider": "toast",
+      "checkout_surface_owner": "toast_hosted",
+      "public_entry_url": "https://www.croxley.com/",
+      "destination_url": "https://order.toasttab.com/online/croxley-ales-rockville-centre",
+      "pickup_pointer_status": "VERIFY_FIRST",
+      "delivery_pointer_status": "VERIFY_FIRST",
+      "schedule_pointer_status": "VERIFY_FIRST",
+      "ordering_on_off_pointer_status": "VERIFY_FIRST",
+      "proof_status": "VERIFIED",
+      "recommendation_tag": "NOW"
+    },
+    {
+      "ordering_surface_id": "os-croxley-rockville-centre-catering",
+      "surface_type": "catering_preorder",
+      "provider": "toast",
+      "checkout_surface_owner": "toast_hosted",
+      "public_entry_url": "https://www.croxley.com/pre-order-trays-wings-more/",
+      "destination_url": "https://www.toasttab.com/catering/croxley-ales-rockville-centre",
+      "pickup_pointer_status": null,
+      "delivery_pointer_status": null,
+      "schedule_pointer_status": null,
+      "ordering_on_off_pointer_status": null,
+      "proof_status": "VERIFIED",
+      "recommendation_tag": "LATER"
+    }
+  ]
+}

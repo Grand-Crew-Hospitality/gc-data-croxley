@@ -1,0 +1,42 @@
+[
+  {
+    "brand_id": "croxley",
+    "page_url": "https://www.croxley.com/weekly-lineup/",
+    "target_role": "evergreen_explainer_page",
+    "page_slug": "weekly-lineup",
+    "public_status": "PUBLIC_VERIFIED_DIVERGENT",
+    "next_action": "EXECUTE"
+  },
+  {
+    "brand_id": "croxley",
+    "page_url": "https://www.croxley.com/events/",
+    "target_role": "canonical_public_specials_events_hub",
+    "page_slug": "events",
+    "public_status": "PUBLIC_VERIFIED_DIVERGENT",
+    "next_action": "EXECUTE"
+  },
+  {
+    "brand_id": "croxley",
+    "page_url": "https://www.croxley.com/location/farmingdale/",
+    "target_role": "location_anchor_page",
+    "page_slug": "location-farmingdale",
+    "public_status": "PUBLIC_VERIFIED_DIVERGENT",
+    "next_action": "EXECUTE"
+  },
+  {
+    "brand_id": "croxley",
+    "page_url": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/",
+    "target_role": "canonical_private_events_page",
+    "page_slug": "the-garden-and-the-loft-at-farmingdale",
+    "public_status": "PUBLIC_VERIFIED_CLOSE_TO_TARGET",
+    "next_action": "VERIFY_ONLY"
+  },
+  {
+    "brand_id": "croxley",
+    "page_url": "https://www.croxley.com/private-events-planning-guide/",
+    "target_role": "support_page_no_nav",
+    "page_slug": "private-events-planning-guide",
+    "public_status": "UNVERIFIED_CURRENT_SESSION",
+    "next_action": "CHECK_NAV_AND_PUBLIC_STATUS"
+  }
+]

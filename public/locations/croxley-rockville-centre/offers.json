@@ -1,0 +1,35 @@
+{
+  "location_id": "croxley-rockville-centre",
+  "offer_page_pointers": [
+    {
+      "page_url": "https://www.croxley.com/weekly-lineup/",
+      "target_role": "evergreen_explainer_page",
+      "public_status": "PUBLIC_VERIFIED_DIVERGENT",
+      "next_action": "EXECUTE"
+    },
+    {
+      "page_url": "https://www.croxley.com/events/",
+      "target_role": "canonical_public_specials_events_hub",
+      "public_status": "PUBLIC_VERIFIED_DIVERGENT",
+      "next_action": "EXECUTE"
+    },
+    {
+      "page_url": "https://www.croxley.com/location/farmingdale/",
+      "target_role": "location_anchor_page",
+      "public_status": "PUBLIC_VERIFIED_DIVERGENT",
+      "next_action": "EXECUTE"
+    },
+    {
+      "page_url": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/",
+      "target_role": "canonical_private_events_page",
+      "public_status": "PUBLIC_VERIFIED_CLOSE_TO_TARGET",
+      "next_action": "VERIFY_ONLY"
+    },
+    {
+      "page_url": "https://www.croxley.com/private-events-planning-guide/",
+      "target_role": "support_page_no_nav",
+      "public_status": "UNVERIFIED_CURRENT_SESSION",
+      "next_action": "CHECK_NAV_AND_PUBLIC_STATUS"
+    }
+  ]
+}

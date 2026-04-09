@@ -1,0 +1,13 @@
+{
+  "location_id": "croxley-farmingdale",
+  "proof_records": [
+    {
+      "proof_record_id": "proof-2026-04-09-croxley-farmingdale",
+      "subject_id": "croxley-farmingdale",
+      "proof_method": "transport_import",
+      "source_type": "second_lane_transport",
+      "captured_at": "2026-04-09T00:00:00-04:00",
+      "proof_status": "VERIFIED"
+    }
+  ]
+}

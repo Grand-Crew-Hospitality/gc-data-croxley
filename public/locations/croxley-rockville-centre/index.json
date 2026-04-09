@@ -1,0 +1,13 @@
+{
+  "location_id": "croxley-rockville-centre",
+  "brand_id": "croxley",
+  "display_name": "Croxley's Rockville Centre",
+  "address_locality": "Rockville Centre, NY",
+  "primary_site_url": "https://www.croxley.com/",
+  "ordering_surface_ids": [
+    "os-croxley-rockville-centre-standard",
+    "os-croxley-rockville-centre-catering"
+  ],
+  "proof_status": "VERIFIED",
+  "recommendation_tag": "NOW"
+}

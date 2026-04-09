@@ -1,0 +1,10 @@
+{
+  "location_id": "croxley-franklin-square",
+  "hours_source_type": "public_pointer_only",
+  "regular_hours": null,
+  "proof_status": "UNVERIFIED",
+  "recommendation_tag": "VERIFY_FIRST",
+  "notes": [
+    "Populate runtime-backed hours only after authenticated access exists."
+  ]
+}

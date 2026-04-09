@@ -1,0 +1,15 @@
+{
+  "record_type": "DATA_HOST_INDEX",
+  "brand_id": "croxley",
+  "display_name": "Croxley's",
+  "primary_domain": "croxley.com",
+  "data_host_hostname": "data.croxley.com",
+  "brands_index_url": "https://data.croxley.com/brands/index.json",
+  "locations_index_url": "https://data.croxley.com/locations/index.json",
+  "ordering_index_url": "https://data.croxley.com/ordering/index.json",
+  "offers_index_url": "https://data.croxley.com/offers/index.json",
+  "proof_index_url": "https://data.croxley.com/proof/index.json",
+  "page_artifact_map_url": "https://data.croxley.com/routing/PAGE_TO_ARTIFACT_MAP.json",
+  "location_count": 3,
+  "page_count": 5
+}

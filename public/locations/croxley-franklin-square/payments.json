@@ -1,0 +1,33 @@
+{
+  "location_id": "croxley-franklin-square",
+  "checkout_surface_owner": "toast_hosted",
+  "apple_pay_web": {
+    "status": "VERIFIED_PLATFORM_VERIFY_LOCATION",
+    "proof_status": "VERIFIED",
+    "constraints": [
+      "Toast states Apple Pay for Online Ordering is only available in Safari.",
+      "Per-location live presence still needs location-surface verification."
+    ]
+  },
+  "google_pay_web": {
+    "status": "VERIFY_FIRST",
+    "proof_status": "LIKELY",
+    "constraints": [
+      "Toast support states guests can use Google Pay at checkout and that all Google Pay transactions are processed as CNP.",
+      "Current Grand Crew web-ordering surfaces have not been directly verified for Google Pay display."
+    ]
+  },
+  "domain_verification_requirements": [
+    "Required only if checkout moves to a Grand Crew-managed domain."
+  ],
+  "proof_records": [
+    {
+      "proof_record_id": "proof-2026-04-09-croxley-franklin-square-payments",
+      "subject_id": "croxley-franklin-square",
+      "proof_method": "transport_import",
+      "source_type": "second_lane_transport",
+      "captured_at": "2026-04-09T00:00:00-04:00",
+      "proof_status": "VERIFIED"
+    }
+  ]
+}

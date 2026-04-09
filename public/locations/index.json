@@ -1,0 +1,20 @@
+[
+  {
+    "location_id": "croxley-franklin-square",
+    "display_name": "Croxley's Franklin Square",
+    "address_locality": "Franklin Square, NY",
+    "artifact_url": "https://data.croxley.com/locations/croxley-franklin-square/index.json"
+  },
+  {
+    "location_id": "croxley-rockville-centre",
+    "display_name": "Croxley's Rockville Centre",
+    "address_locality": "Rockville Centre, NY",
+    "artifact_url": "https://data.croxley.com/locations/croxley-rockville-centre/index.json"
+  },
+  {
+    "location_id": "croxley-farmingdale",
+    "display_name": "Croxley's Farmingdale",
+    "address_locality": "Farmingdale, NY",
+    "artifact_url": "https://data.croxley.com/locations/croxley-farmingdale/index.json"
+  }
+]

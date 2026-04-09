@@ -1,0 +1,13 @@
+{
+  "location_id": "croxley-franklin-square",
+  "brand_id": "croxley",
+  "display_name": "Croxley's Franklin Square",
+  "address_locality": "Franklin Square, NY",
+  "primary_site_url": "https://www.croxley.com/order-online-franklin-square/",
+  "ordering_surface_ids": [
+    "os-croxley-franklin-square-standard",
+    "os-croxley-franklin-square-catering"
+  ],
+  "proof_status": "VERIFIED",
+  "recommendation_tag": "NOW"
+}

@@ -1,0 +1,35 @@
+{
+  "location_id": "croxley-franklin-square",
+  "canonical_order_url": "https://order.toasttab.com/online/croxley%27s-franklin-square",
+  "canonical_order_url_status": "VERIFIED",
+  "ordering_surfaces": [
+    {
+      "ordering_surface_id": "os-croxley-franklin-square-standard",
+      "surface_type": "standard_online_ordering",
+      "provider": "toast",
+      "checkout_surface_owner": "toast_hosted",
+      "public_entry_url": "https://www.croxley.com/order-online-franklin-square/",
+      "destination_url": "https://order.toasttab.com/online/croxley%27s-franklin-square",
+      "pickup_pointer_status": "VERIFIED",
+      "delivery_pointer_status": "VERIFIED",
+      "schedule_pointer_status": "VERIFY_FIRST",
+      "ordering_on_off_pointer_status": "VERIFY_FIRST",
+      "proof_status": "VERIFIED",
+      "recommendation_tag": "NOW"
+    },
+    {
+      "ordering_surface_id": "os-croxley-franklin-square-catering",
+      "surface_type": "catering_preorder",
+      "provider": "toast_or_brand_proxy",
+      "checkout_surface_owner": "unclear",
+      "public_entry_url": "https://www.croxley.com/pre-order-trays-wings-more/",
+      "destination_url": "https://www.croxley.com/catering-store-v2/franklin-square/menu/order-settings?fulfillmentMethod=pickup",
+      "pickup_pointer_status": null,
+      "delivery_pointer_status": null,
+      "schedule_pointer_status": null,
+      "ordering_on_off_pointer_status": null,
+      "proof_status": "VERIFY_FIRST",
+      "recommendation_tag": "VERIFY_FIRST"
+    }
+  ]
+}

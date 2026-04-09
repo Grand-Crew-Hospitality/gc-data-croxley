@@ -1,0 +1,13 @@
+{
+  "location_id": "croxley-franklin-square",
+  "menu_pointers": [
+    {
+      "menu_pointer_id": "menu-croxley-standard",
+      "location_id": "croxley-franklin-square",
+      "canonical_menu_url": "https://www.croxley.com/",
+      "representation_type": "public_menu_page_pointer_only",
+      "proof_status": "VERIFIED",
+      "recommendation_tag": "NOW"
+    }
+  ]
+}

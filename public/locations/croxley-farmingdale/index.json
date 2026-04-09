@@ -1,0 +1,13 @@
+{
+  "location_id": "croxley-farmingdale",
+  "brand_id": "croxley",
+  "display_name": "Croxley's Farmingdale",
+  "address_locality": "Farmingdale, NY",
+  "primary_site_url": "https://www.croxley.com/location/farmingdale/",
+  "ordering_surface_ids": [
+    "os-croxley-farmingdale-standard",
+    "os-croxley-farmingdale-catering"
+  ],
+  "proof_status": "VERIFIED",
+  "recommendation_tag": "NOW"
+}

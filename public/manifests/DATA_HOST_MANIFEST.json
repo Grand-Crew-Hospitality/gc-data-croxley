@@ -1,0 +1,9 @@
+{
+  "brand_id": "croxley",
+  "repo_name": "gc-data-croxley",
+  "hostname": "data.croxley.com",
+  "deployment_root": "public/",
+  "page_count": 5,
+  "location_count": 3,
+  "recommendation_tag": "NOW"
+}
