@@ -30,6 +30,12 @@
       "page_url": "https://www.croxley.com/private-events-planning-guide/",
       "artifact_base_url": "https://data.croxley.com/pages/private-events-planning-guide",
       "page_artifact_manifest_url": "https://data.croxley.com/pages/private-events-planning-guide/PAGE_ARTIFACT_MANIFEST.json"
+    },
+    {
+      "page_slug": "croxley_rockville_centre_events",
+      "page_url": "https://www.croxley.com/rockville-centre-events/",
+      "artifact_base_url": "https://data.croxley.com/pages/croxley_rockville_centre_events",
+      "page_artifact_manifest_url": "https://data.croxley.com/pages/croxley_rockville_centre_events/PAGE_ARTIFACT_MANIFEST.json"
     }
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "page_slug": "croxley_rockville_centre_events",
+  "links": [
+    {
+      "target_url": "https://www.croxley.com/events/",
+      "anchor_text": "Croxley events hub",
+      "rationale": "Connects the supplemental Rockville Centre page back to the primary Croxley events hub.",
+      "status": "PLANNED"
+    },
+    {
+      "target_url": "https://www.croxley.com/",
+      "anchor_text": "Croxley home",
+      "rationale": "Provides a brand-home return path without inventing a new location URL.",
+      "status": "PLANNED"
+    },
+    {
+      "target_url": "https://www.croxley.com/weekly-lineup/",
+      "anchor_text": "Weekly lineup",
+      "rationale": "Keeps the supplemental page connected to the main evergreen specials explainer.",
+      "status": "PLANNED"
+    }
+  ]
+}

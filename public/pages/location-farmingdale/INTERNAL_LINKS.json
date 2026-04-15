@@ -1,4 +1,23 @@
 {
   "page_slug": "location-farmingdale",
-  "links": []
+  "links": [
+    {
+      "target_url": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/",
+      "anchor_text": "Private events at Farmingdale",
+      "rationale": "Routes location visitors to the canonical private-events page.",
+      "status": "PLANNED"
+    },
+    {
+      "target_url": "https://www.croxley.com/events/",
+      "anchor_text": "Weekly specials and events",
+      "rationale": "Connects the location page to the main public hub.",
+      "status": "PLANNED"
+    },
+    {
+      "target_url": "https://order.toasttab.com/online/croxleys-farmingdale",
+      "anchor_text": "Order online",
+      "rationale": "Keeps the location page connected to the primary ordering surface.",
+      "status": "PLANNED"
+    }
+  ]
 }

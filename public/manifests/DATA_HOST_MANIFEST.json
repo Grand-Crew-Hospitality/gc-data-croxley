@@ -3,7 +3,7 @@
   "repo_name": "gc-data-croxley",
   "hostname": "data.croxley.com",
   "deployment_root": "public/",
-  "page_count": 5,
+  "page_count": 6,
   "location_count": 3,
   "recommendation_tag": "NOW"
 }

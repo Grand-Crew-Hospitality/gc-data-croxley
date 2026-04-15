@@ -30,6 +30,12 @@
       "target_role": "support_page_no_nav",
       "public_status": "UNVERIFIED_CURRENT_SESSION",
       "next_action": "CHECK_NAV_AND_PUBLIC_STATUS"
+    },
+    {
+      "page_url": "https://www.croxley.com/rockville-centre-events/",
+      "target_role": "supplemental_live_only_page",
+      "public_status": "PASS_PUBLIC_VERIFIED",
+      "next_action": "VERIFY_ONLY"
     }
   ]
 }

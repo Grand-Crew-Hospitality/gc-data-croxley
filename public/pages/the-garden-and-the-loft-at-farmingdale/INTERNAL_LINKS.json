@@ -1,4 +1,23 @@
 {
   "page_slug": "the-garden-and-the-loft-at-farmingdale",
-  "links": []
+  "links": [
+    {
+      "target_url": "https://www.croxley.com/events/",
+      "anchor_text": "Specials and events",
+      "rationale": "Provides a return path into the primary public discovery page.",
+      "status": "PLANNED"
+    },
+    {
+      "target_url": "https://www.croxley.com/location/farmingdale/",
+      "anchor_text": "Primary location or ordering page",
+      "rationale": "Maintains conversion routing without inventing new URLs.",
+      "status": "PLANNED"
+    },
+    {
+      "target_url": "https://www.croxley.com/weekly-lineup/",
+      "anchor_text": "Weekly Lineup",
+      "rationale": "Adds one same-brand contextual link to strengthen crawl paths.",
+      "status": "PLANNED"
+    }
+  ]
 }

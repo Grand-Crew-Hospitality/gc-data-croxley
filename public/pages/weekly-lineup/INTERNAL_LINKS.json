@@ -1,4 +1,23 @@
 {
   "page_slug": "weekly-lineup",
-  "links": []
+  "links": [
+    {
+      "target_url": "https://order.toasttab.com/online/croxleys-farmingdale",
+      "anchor_text": "Order online",
+      "rationale": "Connects hub traffic to a verified primary ordering or location surface.",
+      "status": "PLANNED"
+    },
+    {
+      "target_url": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/",
+      "anchor_text": "Private events",
+      "rationale": "Cross-links discovery traffic to the canonical private-events page.",
+      "status": "PLANNED"
+    },
+    {
+      "target_url": "https://www.croxley.com/events/",
+      "anchor_text": "Events",
+      "rationale": "Adds one same-brand contextual link to strengthen crawl paths.",
+      "status": "PLANNED"
+    }
+  ]
 }

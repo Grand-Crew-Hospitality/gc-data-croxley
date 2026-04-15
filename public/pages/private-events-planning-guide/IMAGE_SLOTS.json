@@ -1,4 +1,26 @@
 {
   "page_slug": "private-events-planning-guide",
-  "image_slots": []
+  "image_slots": [
+    {
+      "slot_id": "support_page_hero",
+      "asset_status": "UNSPECIFIED_IN_SOURCE",
+      "brief": "Planned support page hero asset for Private Events Planning Guide.",
+      "required_ratio": "UNSPECIFIED_IN_SOURCE",
+      "source_requirement": "Capture or export required before publish."
+    },
+    {
+      "slot_id": "planning_detail",
+      "asset_status": "UNSPECIFIED_IN_SOURCE",
+      "brief": "Planned planning detail asset for Private Events Planning Guide.",
+      "required_ratio": "UNSPECIFIED_IN_SOURCE",
+      "source_requirement": "Capture or export required before publish."
+    },
+    {
+      "slot_id": "cta_support_visual",
+      "asset_status": "UNSPECIFIED_IN_SOURCE",
+      "brief": "Planned cta support visual asset for Private Events Planning Guide.",
+      "required_ratio": "UNSPECIFIED_IN_SOURCE",
+      "source_requirement": "Capture or export required before publish."
+    }
+  ]
 }

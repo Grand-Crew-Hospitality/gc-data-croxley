@@ -2,8 +2,8 @@
   "page_slug": "private-events-planning-guide",
   "fields": {
     "canonical_url": "https://www.croxley.com/private-events-planning-guide/",
-    "title": null,
-    "description": null,
+    "title": "Croxley's Private Events Planning Guide | Planning Support",
+    "description": "Machine-readable plan for the support page, kept fail-closed until nav and public-state verification are reconfirmed.",
     "robots": "index,follow"
   }
 }

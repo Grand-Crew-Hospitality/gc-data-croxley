@@ -1,8 +1,36 @@
 {
   "page_slug": "private-events-planning-guide",
   "canonical_url": "https://www.croxley.com/private-events-planning-guide/",
-  "schema_nodes": [],
+  "schema_nodes": [
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.croxley.com/private-events-planning-guide/#webpage",
+      "name": "Croxley's Private Events Planning Guide | Planning Support",
+      "url": "https://www.croxley.com/private-events-planning-guide/",
+      "description": "Machine-readable plan for the support page, kept fail-closed until nav and public-state verification are reconfirmed."
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.croxley.com/private-events-planning-guide/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Croxley's",
+          "item": "https://www.croxley.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Private Events Planning Guide",
+          "item": "https://www.croxley.com/private-events-planning-guide/"
+        }
+      ]
+    }
+  ],
   "notes": [
-    "Placeholder packet. Fill only with supported visible-page facts."
+    "Fail-closed artifact: omit hours, availability, menu, and payment claims until directly proven."
   ]
 }

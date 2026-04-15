@@ -38,5 +38,13 @@
     "page_slug": "private-events-planning-guide",
     "public_status": "UNVERIFIED_CURRENT_SESSION",
     "next_action": "CHECK_NAV_AND_PUBLIC_STATUS"
+  },
+  {
+    "brand_id": "croxley",
+    "page_url": "https://www.croxley.com/rockville-centre-events/",
+    "target_role": "supplemental_live_only_page",
+    "page_slug": "croxley_rockville_centre_events",
+    "public_status": "PASS_PUBLIC_VERIFIED",
+    "next_action": "VERIFY_ONLY"
   }
 ]

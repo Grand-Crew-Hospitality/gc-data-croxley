@@ -1,0 +1,42 @@
+{
+  "page_slug": "croxley_rockville_centre_events",
+  "canonical_url": "https://www.croxley.com/rockville-centre-events/",
+  "schema_nodes": [
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.croxley.com/rockville-centre-events/#webpage",
+      "name": "Croxley's Rockville Centre Events | Verified Supplemental Page",
+      "url": "https://www.croxley.com/rockville-centre-events/",
+      "description": "Machine-readable artifact for the verified Rockville Centre events page, kept supplemental to the tracked Croxley inventory and limited to directly proven public routing."
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.croxley.com/rockville-centre-events/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Croxley's",
+          "item": "https://www.croxley.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Events",
+          "item": "https://www.croxley.com/events/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Rockville Centre Events",
+          "item": "https://www.croxley.com/rockville-centre-events/"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Supplemental live-only page added from verified public QA. Keep artifact fail-closed and update only with newer proof."
+  ]
+}

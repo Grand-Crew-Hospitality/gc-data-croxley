@@ -1,24 +1,24 @@
 {
-  "page_slug": "weekly-lineup",
+  "page_slug": "croxley_rockville_centre_events",
   "image_slots": [
     {
-      "slot_id": "hero_weekly_lineup",
+      "slot_id": "support_page_hero",
       "asset_status": "UNSPECIFIED_IN_SOURCE",
-      "brief": "Planned hero weekly lineup asset for Weekly Lineup.",
+      "brief": "Planned support page hero asset for Rockville Centre Events.",
       "required_ratio": "UNSPECIFIED_IN_SOURCE",
       "source_requirement": "Capture or export required before publish."
     },
     {
-      "slot_id": "supporting_food_or_drink",
+      "slot_id": "location_signal",
       "asset_status": "UNSPECIFIED_IN_SOURCE",
-      "brief": "Planned supporting food or drink asset for Weekly Lineup.",
+      "brief": "Planned location signal asset for Rockville Centre Events.",
       "required_ratio": "UNSPECIFIED_IN_SOURCE",
       "source_requirement": "Capture or export required before publish."
     },
     {
-      "slot_id": "cta_card_visual",
+      "slot_id": "cta_support_visual",
       "asset_status": "UNSPECIFIED_IN_SOURCE",
-      "brief": "Planned cta card visual asset for Weekly Lineup.",
+      "brief": "Planned CTA support visual asset for Rockville Centre Events.",
       "required_ratio": "UNSPECIFIED_IN_SOURCE",
       "source_requirement": "Capture or export required before publish."
     }

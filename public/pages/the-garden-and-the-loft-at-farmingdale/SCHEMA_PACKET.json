@@ -1,8 +1,50 @@
 {
   "page_slug": "the-garden-and-the-loft-at-farmingdale",
   "canonical_url": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/",
-  "schema_nodes": [],
+  "schema_nodes": [
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/#webpage",
+      "name": "Croxley's Private Events | The Garden and the Loft at Farmingdale",
+      "url": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/",
+      "description": "Machine-readable plan for the canonical private events page, including safe service schema, support links, and media requirements."
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Croxley's",
+          "item": "https://www.croxley.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The Garden and the Loft at Farmingdale",
+          "item": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "@id": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/#service",
+      "name": "Croxley's Private Events",
+      "serviceType": "Private events",
+      "provider": {
+        "@type": "Organization",
+        "name": "Croxley's",
+        "url": "https://www.croxley.com/"
+      },
+      "url": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/",
+      "description": "Machine-readable plan for the canonical private events page, including safe service schema, support links, and media requirements."
+    }
+  ],
   "notes": [
-    "Placeholder packet. Fill only with supported visible-page facts."
+    "Fail-closed artifact: omit hours, availability, menu, and payment claims until directly proven."
   ]
 }
