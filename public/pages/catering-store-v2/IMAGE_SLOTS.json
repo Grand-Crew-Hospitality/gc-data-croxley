@@ -1,0 +1,20 @@
+{
+  "page_slug": "catering-store-v2",
+  "image_slots": [
+    {
+      "slot_id": "commerce_context_image",
+      "asset_status": "COMMERCE_WORKFLOW_REQUIRED",
+      "brief": "Phase 2 context image slot for Croxleys /catering-store-v2/",
+      "required_ratio": "UNSPECIFIED_IN_SOURCE",
+      "source_requirement": "Use current public proof before publish.",
+      "selected_asset": "croxleys-farmingdale-artichoke-dip-01.jpg",
+      "selected_asset_sha256": "af06bf2cc3120ae912f105ded681899497675fe7830fada8a7a09874b1861717",
+      "proof_status": "COMMERCE_WORKFLOW_REQUIRED",
+      "data_host_status": "COMMERCE_WORKFLOW_REQUIRED",
+      "publication_status": "NOT_DEPLOYED_REVIEW_REQUIRED",
+      "proof_path": "data/investigations/20260423-phase2-remaining-image-surfaces/PUBLIC_PROOF/croxleys_catering_store_v2__public_render.json",
+      "updated_at_utc": "2026-04-23T01:10:23Z"
+    }
+  ],
+  "phase2_final_delivery_status": "local_draft_updated_not_deployed"
+}

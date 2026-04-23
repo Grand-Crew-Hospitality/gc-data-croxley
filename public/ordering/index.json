@@ -20,10 +20,13 @@
         "surface_type": "catering_preorder",
         "provider": "toast_or_brand_proxy",
         "checkout_surface_owner": "unclear",
-        "public_entry_url": "https://www.croxley.com/pre-order-trays-wings-more/",
+        "public_entry_url": "https://www.croxley.com/catering-store-v2/",
         "destination_url": "https://www.croxley.com/catering-store-v2/franklin-square/menu/order-settings?fulfillmentMethod=pickup",
         "proof_status": "VERIFY_FIRST",
-        "recommendation_tag": "VERIFY_FIRST"
+        "recommendation_tag": "VERIFY_FIRST",
+        "public_entry_route_status": "REDIRECT_CONFIRMED",
+        "public_entry_proof_json": "data/data-host-implementation/20260420-route-payment-recovery/PUBLIC_PROOF/route_redirect_post__croxley-pre-order-trays-wings-more.json",
+        "route_recovered_from_url": "https://www.croxley.com/pre-order-trays-wings-more/"
       }
     ]
   },
@@ -48,10 +51,13 @@
         "surface_type": "catering_preorder",
         "provider": "toast",
         "checkout_surface_owner": "toast_hosted",
-        "public_entry_url": "https://www.croxley.com/pre-order-trays-wings-more/",
+        "public_entry_url": "https://www.croxley.com/catering-store-v2/",
         "destination_url": "https://www.toasttab.com/catering/croxley-ales-rockville-centre",
         "proof_status": "VERIFIED",
-        "recommendation_tag": "LATER"
+        "recommendation_tag": "LATER",
+        "public_entry_route_status": "REDIRECT_CONFIRMED",
+        "public_entry_proof_json": "data/data-host-implementation/20260420-route-payment-recovery/PUBLIC_PROOF/route_redirect_post__croxley-pre-order-trays-wings-more.json",
+        "route_recovered_from_url": "https://www.croxley.com/pre-order-trays-wings-more/"
       }
     ]
   },
@@ -76,10 +82,13 @@
         "surface_type": "catering_preorder",
         "provider": "toast",
         "checkout_surface_owner": "toast_hosted",
-        "public_entry_url": "https://www.croxley.com/pre-order-trays-wings-more/",
+        "public_entry_url": "https://www.croxley.com/catering-store-v2/",
         "destination_url": "https://www.toasttab.com/catering/croxleys-farmingdale?mode=fulfillment",
         "proof_status": "VERIFIED",
-        "recommendation_tag": "LATER"
+        "recommendation_tag": "LATER",
+        "public_entry_route_status": "REDIRECT_CONFIRMED",
+        "public_entry_proof_json": "data/data-host-implementation/20260420-route-payment-recovery/PUBLIC_PROOF/route_redirect_post__croxley-pre-order-trays-wings-more.json",
+        "route_recovered_from_url": "https://www.croxley.com/pre-order-trays-wings-more/"
       }
     ]
   }

@@ -2,8 +2,12 @@
   "page_slug": "location-farmingdale",
   "fields": {
     "canonical_url": "https://www.croxley.com/location/farmingdale/",
-    "title": "Croxley's Farmingdale | Location, Ordering and Private Events",
-    "description": "Machine-readable plan for the Farmingdale location anchor page, including safe local schema targets, internal routing, and image slot requirements.",
+    "title": "Farmingdale | Croxley's Ale House in NY",
+    "description": "Public-visible data-host record for Farmingdale. Claims are limited to facts visible on the source page.",
     "robots": "index,follow"
-  }
+  },
+  "data_host_status": "PUBLIC_VISIBLE_APPROVED",
+  "last_verified_at_utc": "2026-04-20T00:00:00Z",
+  "proof_source": "data/data-host-implementation/20260420/PUBLIC_HTML_PROOF/croxley__location-farmingdale.json",
+  "publication_scope": "repaired visible CTA route/link facts"
 }

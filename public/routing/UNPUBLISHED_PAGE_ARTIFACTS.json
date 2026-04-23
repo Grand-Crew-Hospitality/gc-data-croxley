@@ -1,0 +1,20 @@
+{
+  "brand_id": "croxley",
+  "generated_at_utc": "2026-04-23T01:39:28Z",
+  "purpose": "Explicit register for page artifact folders that are not published through PAGE_TO_ARTIFACT_MAP.json.",
+  "unpublished_page_artifacts": [
+    {
+      "page_slug": "catering-store-v2",
+      "page_url": "https://www.croxley.com/catering-store-v2/",
+      "artifact_base_url": "https://data.croxley.com/pages/catering-store-v2",
+      "status": "COMMERCE_WORKFLOW_REQUIRED",
+      "reason": "unpublished_commerce_workflow_required",
+      "files": [
+        "IMAGE_SLOTS.json",
+        "SCHEMA_PACKET.json"
+      ],
+      "schema_publication_status": "NOT_PUBLISHED_REVIEW_REQUIRED",
+      "recorded_at_utc": "2026-04-23T01:39:28Z"
+    }
+  ]
+}

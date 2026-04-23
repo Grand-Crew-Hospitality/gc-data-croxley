@@ -8,6 +8,17 @@
       "source_type": "second_lane_transport",
       "captured_at": "2026-04-09T00:00:00-04:00",
       "proof_status": "VERIFIED"
+    },
+    {
+      "proof_record_id": "proof-2026-04-20-croxley-farmingdale-public-hours",
+      "subject_id": "croxley-farmingdale:hours",
+      "proof_method": "public_html_fetch",
+      "source_type": "phase2_public_hours_reconciliation",
+      "captured_at": "2026-04-20T00:00:00Z",
+      "proof_status": "PUBLIC_VISIBLE_APPROVED",
+      "source_url": "https://www.croxley.com/location/farmingdale/",
+      "final_url": "https://www.croxley.com/location/farmingdale/",
+      "evidence_path": "data/data-host-implementation/20260420-public-hours/PUBLIC_HTML_PROOF/croxley-farmingdale.json"
     }
   ]
 }

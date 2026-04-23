@@ -1,7 +1,62 @@
 {
   "page_slug": "the-garden-and-the-loft-at-farmingdale",
-  "fragments": [],
+  "fragments": [
+    {
+      "fragment_type": "public_visible_page_fact_summary",
+      "source_url": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/",
+      "final_url": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/",
+      "title": "Catering & Parties: Croxley’s Farmingdale Event Spaces",
+      "h1": [],
+      "h2_sample": [
+        "Inquire Below",
+        "Frequently Asked Questions",
+        "Catering & Parties",
+        "The Garden & The Loft at Farmingdale",
+        "Email Signup",
+        "Reservations"
+      ],
+      "same_domain_links_sample": [
+        {
+          "target_url": "https://www.croxley.com/",
+          "anchor_text": "https://www.croxley.com/"
+        },
+        {
+          "target_url": "https://www.croxley.com/location/franklin-square/",
+          "anchor_text": "Hours and Location"
+        },
+        {
+          "target_url": "https://www.croxley.com/franklin-square-menu/",
+          "anchor_text": "Menu"
+        },
+        {
+          "target_url": "https://www.croxley.com/private-events-venue/franklin-square/",
+          "anchor_text": "Catering & Parties"
+        },
+        {
+          "target_url": "https://www.croxley.com/franklin-square-events/",
+          "anchor_text": "Specials & Events"
+        },
+        {
+          "target_url": "https://www.croxley.com/location/rockville-centre/",
+          "anchor_text": "Hours & Location"
+        },
+        {
+          "target_url": "https://www.croxley.com/rockville-centre-menu/",
+          "anchor_text": "Menu"
+        },
+        {
+          "target_url": "https://www.croxley.com/private-events-venue/rockville-square/",
+          "anchor_text": "Catering & Parties"
+        }
+      ],
+      "publication_scope": "visible public private-event page facts only"
+    }
+  ],
   "notes": [
-    "Placeholder injection fragments. Verify CMS surface before publishing changes."
-  ]
+    "Public-visible facts only; no inferred hours, currentness, pricing, availability, payment support, or provider ownership.",
+    "Do not convert this fragment into schema without a separate schema approval pass."
+  ],
+  "data_host_status": "PUBLIC_VISIBLE_APPROVED",
+  "last_verified_at_utc": "2026-04-20T00:00:00Z",
+  "proof_source": "data/data-host-implementation/20260420/PUBLIC_HTML_PROOF/croxley__the-garden-and-the-loft-at-farmingdale.json"
 }

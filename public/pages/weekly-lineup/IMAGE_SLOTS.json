@@ -2,11 +2,34 @@
   "page_slug": "weekly-lineup",
   "image_slots": [
     {
+      "slot_id": "weekly_context_image",
+      "asset_status": "PUBLIC_VISIBLE_APPROVED",
+      "brief": "Phase 2 context image slot for Croxleys /weekly-lineup/",
+      "required_ratio": "UNSPECIFIED_IN_SOURCE",
+      "source_requirement": "Use current public proof before publish.",
+      "selected_asset": "croxleys-farmingdale-jam-it-up-burger-01.jpg",
+      "selected_asset_sha256": "afabf2b7068c9479a1647a10dc4922e31f58ec0cef1cc4f35abf70765732ba6e",
+      "proof_status": "PUBLIC_VISIBLE_APPROVED",
+      "data_host_status": "DRAFT_REVIEW_REQUIRED",
+      "publication_status": "NOT_DEPLOYED_REVIEW_REQUIRED",
+      "proof_path": "data/investigations/20260423-phase2-remaining-image-surfaces/PUBLIC_PROOF/croxleys_weekly_lineup__public_render.json",
+      "updated_at_utc": "2026-04-23T01:10:23Z",
+      "public_image_url": "https://images.getbento.com/accounts/9489a575987d7c81680ba59fd44a4742/media/images/93097croxleys-farmingdale-jam-it-up-burger-01.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5"
+    },
+    {
       "slot_id": "hero_weekly_lineup",
-      "asset_status": "UNSPECIFIED_IN_SOURCE",
+      "asset_status": "PUBLIC_VISIBLE_APPROVED",
       "brief": "Planned hero weekly lineup asset for Weekly Lineup.",
       "required_ratio": "UNSPECIFIED_IN_SOURCE",
-      "source_requirement": "Capture or export required before publish."
+      "source_requirement": "Capture or export required before publish.",
+      "selected_asset": "croxleys-farmingdale-jam-it-up-burger-01.jpg",
+      "selected_asset_sha256": "afabf2b7068c9479a1647a10dc4922e31f58ec0cef1cc4f35abf70765732ba6e",
+      "public_image_url": "https://images.getbento.com/accounts/9489a575987d7c81680ba59fd44a4742/media/images/93097croxleys-farmingdale-jam-it-up-burger-01.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "proof_status": "PUBLIC_VISIBLE_APPROVED",
+      "data_host_status": "DRAFT_REVIEW_REQUIRED",
+      "publication_status": "NOT_DEPLOYED_REVIEW_REQUIRED",
+      "proof_path": "data/cms-bio-delivery/20260422-phase2-chrome-resolution/PUBLIC_PROOF/croxleys_weekly_lineup__post_public.json",
+      "updated_at_utc": "2026-04-22T23:35:18Z"
     },
     {
       "slot_id": "supporting_food_or_drink",
@@ -22,5 +45,7 @@
       "required_ratio": "UNSPECIFIED_IN_SOURCE",
       "source_requirement": "Capture or export required before publish."
     }
-  ]
+  ],
+  "phase2_chrome_resolution_status": "local_draft_updated_not_deployed",
+  "phase2_final_delivery_status": "local_draft_updated_not_deployed"
 }

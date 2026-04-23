@@ -3,36 +3,61 @@
     "page_url": "https://www.croxley.com/weekly-lineup/",
     "page_slug": "weekly-lineup",
     "target_role": "evergreen_explainer_page",
-    "public_status": "PUBLIC_VERIFIED_DIVERGENT",
-    "next_action": "EXECUTE"
+    "public_status": "PUBLIC_VISIBLE_APPROVED",
+    "next_action": "DATA_HOST_READY",
+    "proof_status": "PUBLIC_VISIBLE_APPROVED",
+    "last_verified_at_utc": "2026-04-20T00:00:00Z",
+    "proof_source": "data/data-host-implementation/20260420/PUBLIC_HTML_PROOF/croxley__weekly-lineup.json",
+    "publication_scope": "visible page-backed weekly lineup facts",
+    "final_public_url": "https://www.croxley.com/weekly-lineup/"
   },
   {
     "page_url": "https://www.croxley.com/events/",
     "page_slug": "events",
     "target_role": "canonical_public_specials_events_hub",
-    "public_status": "PUBLIC_VERIFIED_DIVERGENT",
-    "next_action": "EXECUTE"
+    "public_status": "PUBLIC_VISIBLE_APPROVED",
+    "next_action": "DATA_HOST_READY",
+    "proof_status": "PUBLIC_VISIBLE_APPROVED",
+    "last_verified_at_utc": "2026-04-20T00:00:00Z",
+    "proof_source": "data/data-host-implementation/20260420/PUBLIC_HTML_PROOF/croxley__events.json",
+    "publication_scope": "visible page-backed events hub facts",
+    "final_public_url": "https://www.croxley.com/events/"
   },
   {
     "page_url": "https://www.croxley.com/location/farmingdale/",
     "page_slug": "location-farmingdale",
     "target_role": "location_anchor_page",
-    "public_status": "PUBLIC_VERIFIED_DIVERGENT",
-    "next_action": "EXECUTE"
+    "public_status": "PUBLIC_VISIBLE_APPROVED",
+    "next_action": "DATA_HOST_READY",
+    "proof_status": "PUBLIC_VISIBLE_APPROVED",
+    "last_verified_at_utc": "2026-04-20T00:00:00Z",
+    "proof_source": "data/data-host-implementation/20260420/PUBLIC_HTML_PROOF/croxley__location-farmingdale.json",
+    "publication_scope": "repaired visible CTA route/link facts",
+    "final_public_url": "https://www.croxley.com/location/farmingdale/"
   },
   {
     "page_url": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/",
     "page_slug": "the-garden-and-the-loft-at-farmingdale",
     "target_role": "canonical_private_events_page",
-    "public_status": "PUBLIC_VERIFIED_CLOSE_TO_TARGET",
-    "next_action": "VERIFY_ONLY"
+    "public_status": "PUBLIC_VISIBLE_APPROVED",
+    "next_action": "DATA_HOST_READY",
+    "proof_status": "PUBLIC_VISIBLE_APPROVED",
+    "last_verified_at_utc": "2026-04-20T00:00:00Z",
+    "proof_source": "data/data-host-implementation/20260420/PUBLIC_HTML_PROOF/croxley__the-garden-and-the-loft-at-farmingdale.json",
+    "publication_scope": "visible public private-event page facts only",
+    "final_public_url": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/"
   },
   {
     "page_url": "https://www.croxley.com/private-events-planning-guide/",
     "page_slug": "private-events-planning-guide",
     "target_role": "support_page_no_nav",
-    "public_status": "UNVERIFIED_CURRENT_SESSION",
-    "next_action": "CHECK_NAV_AND_PUBLIC_STATUS"
+    "public_status": "PUBLIC_VISIBLE_APPROVED",
+    "next_action": "DATA_HOST_READY",
+    "proof_status": "PUBLIC_VISIBLE_APPROVED",
+    "last_verified_at_utc": "2026-04-20T00:00:00Z",
+    "proof_source": "data/data-host-implementation/20260420/PUBLIC_HTML_PROOF/croxley__private-events-planning-guide.json",
+    "publication_scope": "visible public support-page facts only",
+    "final_public_url": "https://www.croxley.com/private-events-planning-guide/"
   },
   {
     "page_url": "https://www.croxley.com/rockville-centre-events/",

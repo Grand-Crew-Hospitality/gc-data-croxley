@@ -3,8 +3,12 @@
   "page_url": "https://www.croxley.com/private-events-planning-guide/",
   "artifact_base_url": "https://data.croxley.com/pages/private-events-planning-guide",
   "target_role": "support_page_no_nav",
-  "public_status": "UNVERIFIED_CURRENT_SESSION",
-  "next_action": "CHECK_NAV_AND_PUBLIC_STATUS",
-  "proof_status": "VERIFIED",
-  "recommendation_tag": "NOW"
+  "public_status": "PUBLIC_VISIBLE_APPROVED",
+  "next_action": "DATA_HOST_READY",
+  "proof_status": "PUBLIC_VISIBLE_APPROVED",
+  "recommendation_tag": "NOW",
+  "last_verified_at_utc": "2026-04-20T00:00:00Z",
+  "proof_source": "data/data-host-implementation/20260420/PUBLIC_HTML_PROOF/croxley__private-events-planning-guide.json",
+  "final_public_url": "https://www.croxley.com/private-events-planning-guide/",
+  "publication_scope": "visible public support-page facts only"
 }

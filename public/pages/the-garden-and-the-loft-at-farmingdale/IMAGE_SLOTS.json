@@ -2,11 +2,34 @@
   "page_slug": "the-garden-and-the-loft-at-farmingdale",
   "image_slots": [
     {
+      "slot_id": "private_event_hero",
+      "asset_status": "PUBLIC_VISIBLE_APPROVED",
+      "brief": "Phase 2 context image slot for Croxleys /the-garden-and-the-loft-at-farmingdale/",
+      "required_ratio": "UNSPECIFIED_IN_SOURCE",
+      "source_requirement": "Use current public proof before publish.",
+      "selected_asset": "croxleys-farmingdale-exterior-patio-01.jpg",
+      "selected_asset_sha256": "b45cf973b6e6ea49bae5a4f7c5601f1c73ab243ffb111ac337eb9bcfdd1c34d5",
+      "proof_status": "PUBLIC_VISIBLE_APPROVED",
+      "data_host_status": "DRAFT_REVIEW_REQUIRED",
+      "publication_status": "NOT_DEPLOYED_REVIEW_REQUIRED",
+      "proof_path": "data/investigations/20260423-phase2-remaining-image-surfaces/PUBLIC_PROOF/croxleys_the_garden_and_the_loft_at_farmingdale__public_render.json",
+      "updated_at_utc": "2026-04-23T01:10:23Z",
+      "public_image_url": "https://images.getbento.com/accounts/9489a575987d7c81680ba59fd44a4742/media/images/6276croxleys-farmingdale-exterior-patio-01.jpg?w=1000&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5"
+    },
+    {
       "slot_id": "private_events_hero",
-      "asset_status": "UNSPECIFIED_IN_SOURCE",
+      "asset_status": "PUBLIC_VISIBLE_APPROVED",
       "brief": "Planned private events hero asset for the Garden and the Loft at Farmingdale.",
       "required_ratio": "UNSPECIFIED_IN_SOURCE",
-      "source_requirement": "Capture or export required before publish."
+      "source_requirement": "Capture or export required before publish.",
+      "selected_asset": "croxleys-farmingdale-exterior-patio-01.jpg",
+      "selected_asset_sha256": "b45cf973b6e6ea49bae5a4f7c5601f1c73ab243ffb111ac337eb9bcfdd1c34d5",
+      "public_image_url": "https://images.getbento.com/accounts/9489a575987d7c81680ba59fd44a4742/media/images/6276croxleys-farmingdale-exterior-patio-01.jpg?w=1000&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "proof_status": "PUBLIC_VISIBLE_APPROVED",
+      "data_host_status": "DRAFT_REVIEW_REQUIRED",
+      "publication_status": "NOT_DEPLOYED_REVIEW_REQUIRED",
+      "proof_path": "data/cms-bio-delivery/20260422-phase2-chrome-resolution/PUBLIC_PROOF/croxleys_the_garden_and_the_loft_at_farmingdale__post_public.json",
+      "updated_at_utc": "2026-04-22T23:35:18Z"
     },
     {
       "slot_id": "room_setup_detail",
@@ -22,5 +45,7 @@
       "required_ratio": "UNSPECIFIED_IN_SOURCE",
       "source_requirement": "Capture or export required before publish."
     }
-  ]
+  ],
+  "phase2_chrome_resolution_status": "local_draft_updated_not_deployed",
+  "phase2_final_delivery_status": "local_draft_updated_not_deployed"
 }

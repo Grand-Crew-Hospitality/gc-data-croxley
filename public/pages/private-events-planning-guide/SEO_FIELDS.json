@@ -2,8 +2,12 @@
   "page_slug": "private-events-planning-guide",
   "fields": {
     "canonical_url": "https://www.croxley.com/private-events-planning-guide/",
-    "title": "Croxley's Private Events Planning Guide | Planning Support",
-    "description": "Machine-readable plan for the support page, kept fail-closed until nav and public-state verification are reconfirmed.",
+    "title": "Private Events Planning Guide | Croxley's Ale House | Ale House & Eatery in NY",
+    "description": "Public-visible data-host record for Private Events at Croxley's - Planning Guide. Claims are limited to facts visible on the source page.",
     "robots": "index,follow"
-  }
+  },
+  "data_host_status": "PUBLIC_VISIBLE_APPROVED",
+  "last_verified_at_utc": "2026-04-20T00:00:00Z",
+  "proof_source": "data/data-host-implementation/20260420/PUBLIC_HTML_PROOF/croxley__private-events-planning-guide.json",
+  "publication_scope": "visible public support-page facts only"
 }

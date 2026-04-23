@@ -3,8 +3,12 @@
   "page_url": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/",
   "artifact_base_url": "https://data.croxley.com/pages/the-garden-and-the-loft-at-farmingdale",
   "target_role": "canonical_private_events_page",
-  "public_status": "PUBLIC_VERIFIED_CLOSE_TO_TARGET",
-  "next_action": "VERIFY_ONLY",
-  "proof_status": "VERIFIED",
-  "recommendation_tag": "NOW"
+  "public_status": "PUBLIC_VISIBLE_APPROVED",
+  "next_action": "DATA_HOST_READY",
+  "proof_status": "PUBLIC_VISIBLE_APPROVED",
+  "recommendation_tag": "NOW",
+  "last_verified_at_utc": "2026-04-20T00:00:00Z",
+  "proof_source": "data/data-host-implementation/20260420/PUBLIC_HTML_PROOF/croxley__the-garden-and-the-loft-at-farmingdale.json",
+  "final_public_url": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/",
+  "publication_scope": "visible public private-event page facts only"
 }

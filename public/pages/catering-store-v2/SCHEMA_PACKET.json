@@ -1,0 +1,14 @@
+{
+  "page_slug": "catering-store-v2",
+  "canonical_url": "https://www.croxley.com/catering-store-v2/",
+  "schema_nodes": [],
+  "image_schema_status": "SCHEMA_FAIL_CLOSED",
+  "image_schema_nodes": [],
+  "image_schema_publication_status": "NOT_PUBLISHED_REVIEW_REQUIRED",
+  "schema_publication_status": "NOT_PUBLISHED_REVIEW_REQUIRED",
+  "notes": [
+    "Phase 2 image schema remains draft only and is not deployed or published.",
+    "Image schema fail-closed because CMS image surface or route ownership is unresolved."
+  ],
+  "image_schema_updated_at_utc": "2026-04-23T01:10:23Z"
+}

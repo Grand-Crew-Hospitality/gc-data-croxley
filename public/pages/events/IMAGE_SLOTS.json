@@ -3,10 +3,18 @@
   "image_slots": [
     {
       "slot_id": "hub_hero",
-      "asset_status": "UNSPECIFIED_IN_SOURCE",
-      "brief": "Planned hub hero asset for Events.",
+      "asset_status": "PUBLIC_VISIBLE_APPROVED",
+      "brief": "Phase 2 context image slot for Croxleys /events/",
       "required_ratio": "UNSPECIFIED_IN_SOURCE",
-      "source_requirement": "Capture or export required before publish."
+      "source_requirement": "Use current public proof before publish.",
+      "selected_asset": "croxleys-farmingdale-interior-dining-room-01.jpg",
+      "selected_asset_sha256": "dc0716cd433c5958f827508e293c03ca52d13e967f7851215996f7ce0e8d0d7e",
+      "public_image_url": "https://images.getbento.com/accounts/9489a575987d7c81680ba59fd44a4742/media/images/20158croxleys-farmingdale-interior-dining-room-01.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&h=600",
+      "proof_status": "PUBLIC_VISIBLE_APPROVED",
+      "data_host_status": "DRAFT_REVIEW_REQUIRED",
+      "publication_status": "NOT_DEPLOYED_REVIEW_REQUIRED",
+      "proof_path": "data/investigations/20260423-phase2-remaining-image-surfaces/PUBLIC_PROOF/croxleys_events__public_render.json",
+      "updated_at_utc": "2026-04-23T01:10:23Z"
     },
     {
       "slot_id": "feature_card_grid",
@@ -22,5 +30,7 @@
       "required_ratio": "UNSPECIFIED_IN_SOURCE",
       "source_requirement": "Capture or export required before publish."
     }
-  ]
+  ],
+  "phase2_chrome_resolution_status": "local_draft_updated_not_deployed",
+  "phase2_final_delivery_status": "local_draft_updated_not_deployed"
 }

@@ -1,10 +1,117 @@
 {
   "location_id": "croxley-farmingdale",
-  "hours_source_type": "public_pointer_only",
-  "regular_hours": null,
-  "proof_status": "UNVERIFIED",
-  "recommendation_tag": "VERIFY_FIRST",
+  "hours_source_type": "public_location_page",
+  "regular_hours": [
+    {
+      "days": [
+        "Sunday"
+      ],
+      "kitchen_opens": "12:00 PM",
+      "kitchen_closes": "10:00 PM",
+      "bar_open_until_minimum": "11:00 PM",
+      "visible_text": "Sunday Kitchen Open 12:00 pm - 10:00 PM, Bar Stays Open Until 11:00 PM Minimum"
+    },
+    {
+      "days": [
+        "Monday",
+        "Tuesday"
+      ],
+      "kitchen_opens": "12:00 PM",
+      "kitchen_closes": "11:00 PM",
+      "bar_open_until_minimum": "12:00 AM",
+      "visible_text": "Monday Tuesday Kitchen Open 12:00 pm - 11:00 PM, Bar Stays Open Until 12:00 AM Minimum"
+    },
+    {
+      "days": [
+        "Wednesday",
+        "Thursday"
+      ],
+      "kitchen_opens": "12:00 PM",
+      "kitchen_closes": "12:00 AM",
+      "bar_open_until_minimum": "12:00 AM",
+      "visible_text": "Wednesday Thursday Kitchen Open 12:00 pm - 12:00 AM, Bar Stays Open Until 12:00 AM Minimum"
+    },
+    {
+      "days": [
+        "Friday",
+        "Saturday"
+      ],
+      "kitchen_opens": "12:00 PM",
+      "kitchen_closes": "1:00 AM",
+      "bar_open_until_minimum": "2:00 AM",
+      "visible_text": "Friday Saturday Kitchen Open 12:00 pm - 1:00 AM, Bar Stays Open Until 2:00 AM Minimum"
+    }
+  ],
+  "proof_status": "PUBLIC_VISIBLE_APPROVED",
+  "recommendation_tag": "NOW",
+  "source_url": "https://www.croxley.com/location/farmingdale/",
+  "final_url": "https://www.croxley.com/location/farmingdale/",
+  "captured_at_utc": "2026-04-20T00:00:00Z",
+  "proof_source": "data/data-host-implementation/20260420-public-hours/PUBLIC_HTML_PROOF/croxley-farmingdale.json",
+  "raw_public_hours_text": "Hours & Location 190 Main St, Farmingdale, NY 11735 516-293-7700 Sunday Kitchen Open 12:00 pm - 10:00 PM, Bar Stays Open Until 11:00 PM Minimum Monday Tuesday Kitchen Open 12:00 pm - 11:00 PM, Bar Stays Open Until 12:00 AM Minimum Wednesday Thursday Kitchen Open 12:00 pm - 12:00 AM, Bar Stays Open Until 12:00 AM Minimum Friday Saturday Kitchen Open 12:00 pm - 1:00 AM, Bar Stays Open Until 2:00 AM Minimum Instagram Facebook",
   "notes": [
-    "Populate runtime-backed hours only after authenticated access exists."
-  ]
+    "Hours scraped from current public location page on 2026-04-20.",
+    "Only visibly present public hours were populated; ordering, payment, provider, and schema claims remain out of scope."
+  ],
+  "schema_draft": {
+    "status": "DRAFT_REVIEW_REQUIRED",
+    "publication_status": "NOT_PUBLISHED_REVIEW_REQUIRED",
+    "@context": "https://schema.org",
+    "schema_nodes": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "https://schema.org/Sunday"
+        ],
+        "opens": "12:00 PM",
+        "closes": "10:00 PM",
+        "description": "Sunday Kitchen Open 12:00 pm - 10:00 PM, Bar Stays Open Until 11:00 PM Minimum",
+        "barOpenUntilMinimum": "11:00 PM"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "https://schema.org/Monday",
+          "https://schema.org/Tuesday"
+        ],
+        "opens": "12:00 PM",
+        "closes": "11:00 PM",
+        "description": "Monday Tuesday Kitchen Open 12:00 pm - 11:00 PM, Bar Stays Open Until 12:00 AM Minimum",
+        "barOpenUntilMinimum": "12:00 AM"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "https://schema.org/Wednesday",
+          "https://schema.org/Thursday"
+        ],
+        "opens": "12:00 PM",
+        "closes": "12:00 AM",
+        "description": "Wednesday Thursday Kitchen Open 12:00 pm - 12:00 AM, Bar Stays Open Until 12:00 AM Minimum",
+        "barOpenUntilMinimum": "12:00 AM"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "https://schema.org/Friday",
+          "https://schema.org/Saturday"
+        ],
+        "opens": "12:00 PM",
+        "closes": "1:00 AM",
+        "description": "Friday Saturday Kitchen Open 12:00 pm - 1:00 AM, Bar Stays Open Until 2:00 AM Minimum",
+        "barOpenUntilMinimum": "2:00 AM"
+      }
+    ],
+    "proof_source": "data/data-host-implementation/20260420-public-hours/PUBLIC_HTML_PROOF/croxley-farmingdale.json",
+    "source_url": "https://www.croxley.com/location/farmingdale/",
+    "captured_at_utc": "2026-04-20T00:00:00Z",
+    "draft_scope": "OpeningHoursSpecification draft from public-visible location page hours only.",
+    "excluded_claims": [
+      "payment support",
+      "ordering availability",
+      "provider ownership",
+      "holiday hours",
+      "special-event hours not visible in regular public hours text"
+    ]
+  }
 }

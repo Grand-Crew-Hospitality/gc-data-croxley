@@ -3,8 +3,12 @@
   "page_url": "https://www.croxley.com/location/farmingdale/",
   "artifact_base_url": "https://data.croxley.com/pages/location-farmingdale",
   "target_role": "location_anchor_page",
-  "public_status": "PUBLIC_VERIFIED_DIVERGENT",
-  "next_action": "EXECUTE",
-  "proof_status": "VERIFIED",
-  "recommendation_tag": "NOW"
+  "public_status": "PUBLIC_VISIBLE_APPROVED",
+  "next_action": "DATA_HOST_READY",
+  "proof_status": "PUBLIC_VISIBLE_APPROVED",
+  "recommendation_tag": "NOW",
+  "last_verified_at_utc": "2026-04-20T00:00:00Z",
+  "proof_source": "data/data-host-implementation/20260420/PUBLIC_HTML_PROOF/croxley__location-farmingdale.json",
+  "final_public_url": "https://www.croxley.com/location/farmingdale/",
+  "publication_scope": "repaired visible CTA route/link facts"
 }

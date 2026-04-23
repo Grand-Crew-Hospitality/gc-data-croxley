@@ -2,8 +2,12 @@
   "page_slug": "weekly-lineup",
   "fields": {
     "canonical_url": "https://www.croxley.com/weekly-lineup/",
-    "title": "Croxley's Weekly Lineup | Specials and Events Guide",
-    "description": "Explore the Croxley weekly lineup page plan, including safe SEO fields, schema coverage, internal links, and image slots for specials and event discovery.",
+    "title": "Weekly Food & Drink Lineup at Croxley’s | Wings, Brunch & Happy Hour",
+    "description": "Public-visible data-host record for Weekly Food & Drink Lineup at Croxley's. Claims are limited to facts visible on the source page.",
     "robots": "index,follow"
-  }
+  },
+  "data_host_status": "PUBLIC_VISIBLE_APPROVED",
+  "last_verified_at_utc": "2026-04-20T00:00:00Z",
+  "proof_source": "data/data-host-implementation/20260420/PUBLIC_HTML_PROOF/croxley__weekly-lineup.json",
+  "publication_scope": "visible page-backed weekly lineup facts"
 }

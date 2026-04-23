@@ -2,8 +2,12 @@
   "page_slug": "the-garden-and-the-loft-at-farmingdale",
   "fields": {
     "canonical_url": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/",
-    "title": "Croxley's Private Events | The Garden and the Loft at Farmingdale",
-    "description": "Machine-readable plan for the canonical private events page, including safe service schema, support links, and media requirements.",
+    "title": "Catering & Parties: Croxley’s Farmingdale Event Spaces",
+    "description": "Public-visible data-host record for Catering & Parties: Croxley’s Farmingdale Event Spaces. Claims are limited to facts visible on the source page.",
     "robots": "index,follow"
-  }
+  },
+  "data_host_status": "PUBLIC_VISIBLE_APPROVED",
+  "last_verified_at_utc": "2026-04-20T00:00:00Z",
+  "proof_source": "data/data-host-implementation/20260420/PUBLIC_HTML_PROOF/croxley__the-garden-and-the-loft-at-farmingdale.json",
+  "publication_scope": "visible public private-event page facts only"
 }

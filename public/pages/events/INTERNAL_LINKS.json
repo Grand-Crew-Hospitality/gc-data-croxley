@@ -2,22 +2,83 @@
   "page_slug": "events",
   "links": [
     {
-      "target_url": "https://order.toasttab.com/online/croxleys-farmingdale",
-      "anchor_text": "Order online",
-      "rationale": "Connects hub traffic to a verified primary ordering or location surface.",
-      "status": "PLANNED"
+      "target_url": "https://www.croxley.com/",
+      "anchor_text": "https://www.croxley.com/",
+      "rationale": "Visible same-domain public link on the source page.",
+      "status": "PUBLIC_VISIBLE"
+    },
+    {
+      "target_url": "https://www.croxley.com/location/franklin-square/",
+      "anchor_text": "Hours and Location",
+      "rationale": "Visible same-domain public link on the source page.",
+      "status": "PUBLIC_VISIBLE"
+    },
+    {
+      "target_url": "https://www.croxley.com/franklin-square-menu/",
+      "anchor_text": "Menu",
+      "rationale": "Visible same-domain public link on the source page.",
+      "status": "PUBLIC_VISIBLE"
+    },
+    {
+      "target_url": "https://www.croxley.com/private-events-venue/franklin-square/",
+      "anchor_text": "Catering & Parties",
+      "rationale": "Visible same-domain public link on the source page.",
+      "status": "PUBLIC_VISIBLE"
+    },
+    {
+      "target_url": "https://www.croxley.com/franklin-square-events/",
+      "anchor_text": "Specials & Events",
+      "rationale": "Visible same-domain public link on the source page.",
+      "status": "PUBLIC_VISIBLE"
+    },
+    {
+      "target_url": "https://www.croxley.com/location/rockville-centre/",
+      "anchor_text": "Hours & Location",
+      "rationale": "Visible same-domain public link on the source page.",
+      "status": "PUBLIC_VISIBLE"
+    },
+    {
+      "target_url": "https://www.croxley.com/rockville-centre-menu/",
+      "anchor_text": "Menu",
+      "rationale": "Visible same-domain public link on the source page.",
+      "status": "PUBLIC_VISIBLE"
+    },
+    {
+      "target_url": "https://www.croxley.com/private-events-venue/rockville-square/",
+      "anchor_text": "Catering & Parties",
+      "rationale": "Visible same-domain public link on the source page.",
+      "status": "PUBLIC_VISIBLE"
+    },
+    {
+      "target_url": "https://www.croxley.com/rockville-centre-events/",
+      "anchor_text": "Specials & Events",
+      "rationale": "Visible same-domain public link on the source page.",
+      "status": "PUBLIC_VISIBLE"
+    },
+    {
+      "target_url": "https://www.croxley.com/location/farmingdale/",
+      "anchor_text": "Hours & Location",
+      "rationale": "Visible same-domain public link on the source page.",
+      "status": "PUBLIC_VISIBLE"
+    },
+    {
+      "target_url": "https://www.croxley.com/farmingdale-menu/",
+      "anchor_text": "Menu",
+      "rationale": "Visible same-domain public link on the source page.",
+      "status": "PUBLIC_VISIBLE"
     },
     {
       "target_url": "https://www.croxley.com/the-garden-and-the-loft-at-farmingdale/",
-      "anchor_text": "Private events",
-      "rationale": "Cross-links discovery traffic to the canonical private-events page.",
-      "status": "PLANNED"
-    },
-    {
-      "target_url": "https://www.croxley.com/weekly-lineup/",
-      "anchor_text": "Weekly Lineup",
-      "rationale": "Adds one same-brand contextual link to strengthen crawl paths.",
-      "status": "PLANNED"
+      "anchor_text": "Catering & Parties",
+      "rationale": "Visible same-domain public link on the source page.",
+      "status": "PUBLIC_VISIBLE"
     }
-  ]
+  ],
+  "notes": [
+    "Generated from current public HTML during 2026-04-20 data-host implementation.",
+    "Provider/order/payment links were excluded from publication in this pass."
+  ],
+  "data_host_status": "PUBLIC_VISIBLE_APPROVED",
+  "last_verified_at_utc": "2026-04-20T00:00:00Z",
+  "proof_source": "data/data-host-implementation/20260420/PUBLIC_HTML_PROOF/croxley__events.json"
 }
