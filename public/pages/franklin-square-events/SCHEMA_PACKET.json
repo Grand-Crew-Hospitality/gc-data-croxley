@@ -1,0 +1,32 @@
+{
+  "page_slug": "franklin-square-events",
+  "canonical_url": "https://www.croxley.com/franklin-square-events/",
+  "schema_nodes": [
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.croxley.com/franklin-square-events/#webpage",
+      "url": "https://www.croxley.com/franklin-square-events/",
+      "name": "Croxley’s Franklin Square Specials & Events | Wings, Happy Hour & Weekly Deals",
+      "description": "Public-visible data-host record for Croxley Franklin Square Specials & Events. Claims are limited to facts visible on the source page.",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://www.croxley.com/#website",
+        "url": "https://www.croxley.com/",
+        "name": "Croxley's Ale House"
+      },
+      "inLanguage": "en-US",
+      "dateModified": "2026-06-03",
+      "evidencePath": "data/truth/20260601-grand-crew-contract-truth/remaining-cms-delivery-20260603/CROXLEY_EXECUTION/PROOF/public_proof.json",
+      "draftScope": "visible public Franklin Square specials/events page facts"
+    }
+  ],
+  "notes": [
+    "Schema draft only; no schema publication occurred.",
+    "Public-visible facts only; no hours, ordering, payment, pricing, availability, provider, or non-visible private-event/catering claims are included."
+  ],
+  "data_host_status": "DRAFT_REVIEW_REQUIRED",
+  "last_verified_at_utc": "2026-06-03T20:35:43Z",
+  "proof_source": "data/truth/20260601-grand-crew-contract-truth/remaining-cms-delivery-20260603/CROXLEY_EXECUTION/PROOF/public_proof.json",
+  "schema_publication_status": "NOT_PUBLISHED_REVIEW_REQUIRED"
+}

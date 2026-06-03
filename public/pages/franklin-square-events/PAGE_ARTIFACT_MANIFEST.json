@@ -1,0 +1,14 @@
+{
+  "page_slug": "franklin-square-events",
+  "page_url": "https://www.croxley.com/franklin-square-events/",
+  "artifact_base_url": "https://data.croxley.com/pages/franklin-square-events",
+  "target_role": "canonical_public_franklin_square_specials_events_page",
+  "public_status": "PUBLIC_VISIBLE_APPROVED",
+  "next_action": "DATA_HOST_READY",
+  "proof_status": "PUBLIC_VISIBLE_APPROVED",
+  "recommendation_tag": "NOW",
+  "last_verified_at_utc": "2026-06-03T20:35:43Z",
+  "proof_source": "data/truth/20260601-grand-crew-contract-truth/remaining-cms-delivery-20260603/CROXLEY_EXECUTION/PROOF/public_proof.json",
+  "final_public_url": "https://www.croxley.com/franklin-square-events/",
+  "publication_scope": "visible public Franklin Square specials/events page facts"
+}

@@ -1,0 +1,13 @@
+{
+  "page_slug": "franklin-square-events",
+  "fields": {
+    "canonical_url": "https://www.croxley.com/franklin-square-events/",
+    "title": "Croxley’s Franklin Square Specials & Events | Wings, Happy Hour & Weekly Deals",
+    "description": "Public-visible data-host record for Croxley Franklin Square Specials & Events. Claims are limited to facts visible on the source page.",
+    "robots": "index,follow"
+  },
+  "data_host_status": "PUBLIC_VISIBLE_APPROVED",
+  "last_verified_at_utc": "2026-06-03T20:35:43Z",
+  "proof_source": "data/truth/20260601-grand-crew-contract-truth/remaining-cms-delivery-20260603/CROXLEY_EXECUTION/PROOF/public_proof.json",
+  "publication_scope": "visible public Franklin Square specials/events page facts"
+}

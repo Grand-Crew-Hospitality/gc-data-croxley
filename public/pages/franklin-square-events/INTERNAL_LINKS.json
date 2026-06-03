@@ -1,0 +1,24 @@
+{
+  "page_slug": "franklin-square-events",
+  "links": [
+    {
+      "target_url": "https://www.opentable.com/restref/client/?rid=298804&restref=298804&lang=en-US&r3uid=OF1oHXxLOP&ot_source=Restaurant%20website&color=7&corrid=6387797f-466e-4d36-87a4-c640aa0f551b",
+      "anchor_text": "Reserve a table",
+      "rationale": "Visible public link on the source page after 2026-06-03 correction.",
+      "status": "PUBLIC_VISIBLE"
+    },
+    {
+      "target_url": "https://order.toasttab.com/online/croxley",
+      "anchor_text": "Order online",
+      "rationale": "Visible public link on the source page after 2026-06-03 correction.",
+      "status": "PUBLIC_VISIBLE"
+    }
+  ],
+  "notes": [
+    "Generated from current public HTML after 2026-06-03 Franklin Square CTA correction.",
+    "Provider/order/payment behavior was not inferred beyond public visible links."
+  ],
+  "data_host_status": "PUBLIC_VISIBLE_APPROVED",
+  "last_verified_at_utc": "2026-06-03T20:35:43Z",
+  "proof_source": "data/truth/20260601-grand-crew-contract-truth/remaining-cms-delivery-20260603/CROXLEY_EXECUTION/PROOF/public_proof.json"
+}
